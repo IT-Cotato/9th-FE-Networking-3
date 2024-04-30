@@ -1,6 +1,6 @@
 # 👉🏻 9기 [FE] Code-Challenge-03
 
-🧐 [과제 솔루션 링크](https://github.com/Cllaude99/Cotato-9th-FE-Networking-Solution/tree/main/week3)
+🤫 [과제 솔루션 링크](https://github.com/Cllaude99/Cotato-9th-FE-Networking-Solution/tree/main/week3)
 
 ### 🎲 과제 진행 방법
 
